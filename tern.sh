@@ -65,4 +65,4 @@ echo "Starting the Executor..."
 ./executor
 
 echo "Setup complete! The Executor is now running."
-echo "Subscribe: https://t.me/feature_earning"
+echo "Subscribe: santosh chhetri
